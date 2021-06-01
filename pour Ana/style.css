@@ -1,0 +1,15 @@
+p{
+	font-size: 100px;
+	font-weight: bolder;
+	color: aquamarine;
+	text-align: center;
+	text-decoration: blink;
+}
+.e{
+	font-size: 30px;
+	color: pink;
+}
+.p{
+	font-size: 10px;
+	color: transparent;
+}
